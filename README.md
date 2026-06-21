@@ -2,7 +2,7 @@
 
 **Advanced Research on Networking, Anti-Censorship Technologies & Internet Freedom**
 
-> By **Iliya** — 17-year-old Independent Security Researcher
+> By **Iliya** — 17-year-old Independent Researcher in Networking, Applied Cryptography, and Internet Measurement
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Status](https://img.shields.io/badge/status-research--in--progress-blue)](#)
