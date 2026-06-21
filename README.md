@@ -4,7 +4,7 @@
 
 > By **Iliya** — 17-year-old Independent Security Researcher
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Status](https://img.shields.io/badge/status-research--in--progress-blue)](#)
 [![Topics](https://img.shields.io/badge/topics-networking%20%7C%20VPN%20%7C%20DPI%20%7C%20censorship-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
